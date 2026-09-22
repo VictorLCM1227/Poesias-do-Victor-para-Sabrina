@@ -38,9 +38,20 @@ header a {
     font-family: var(--fonte01);
 }
 
+.direita img {
+    width: 40px;
+    height: 40px;
+}
+
 .direita {
     text-align: right;
 }
+
+#meio {
+    justify-self: center;
+}
+
+
 
 a {
     text-decoration: none;
